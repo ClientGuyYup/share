@@ -2,11 +2,13 @@
   "1169111190824308768": {
     "images": [
       "https://cdn3.emoji.gg/emojis/2572-verified-badge.png",
-      "https://cdn3.emoji.gg/emojis/96296-discordearlybotdeveloper.png"
+      "https://cdn3.emoji.gg/emojis/96296-discordearlybotdeveloper.png",
+      "https://cdn3.emoji.gg/emojis/4209-recruit-rank-9th.png"
     ],
     "tooltips": [
       "Verified",
-      "Website Dev"
+      "Website Dev",
+      "Akuma"
     ]
   },
   "1374941350616760330": {
@@ -29,10 +31,12 @@
   },
   "1379729382998016030": {
     "images": [
-      "https://cdn3.emoji.gg/emojis/9928-discordpartner-badge.png"
+      "https://cdn3.emoji.gg/emojis/9928-discordpartner-badge.png",
+      "https://emoji.gg/emoji/2054-orange-dot"
     ],
     "tooltips": [
-      "Partner"
+      "Partner",
+      "+"
     ]
   }
 }
