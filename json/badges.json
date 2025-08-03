@@ -1,12 +1,22 @@
 {
   "1169111190824308768": {
     "images": [
-      "https://cdn3.emoji.gg/emojis/84952-verified.png",
+      "https://cdn3.emoji.gg/emojis/2572-verified-badge.png",
       "https://cdn3.emoji.gg/emojis/96296-discordearlybotdeveloper.png"
     ],
     "tooltips": [
       "Verified",
       "Website Dev"
+    ]
+  },
+  "1374941350616760330": {
+    "images": [
+      "https://cdn3.emoji.gg/emojis/84952-verified.png",
+      "https://cdn3.emoji.gg/emojis/86863-verifiedmembers-ids.png"
+    ],
+    "tooltips": [
+      "Twitch Streamer",
+      "Friend"
     ]
   }
 }
