@@ -48,5 +48,15 @@
       "Moderator",
       "Trusted"
     ]
+  },
+  "1401393383519424664": {
+    "images": [
+      "https://cdn3.emoji.gg/emojis/18502-beta-pogo-os.png",
+      "https://cdn3.emoji.gg/emojis/8965-moderator.png"
+    ],
+    "tooltips": [
+      "Beta",
+      "Admin"
+    ]
   }
 }
