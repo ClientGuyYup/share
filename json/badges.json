@@ -78,11 +78,33 @@
   "1236667927944761396": {
     "images": [
       "https://amcalledglitchy.dev/glitchkisser.png",
-      "https://cdn3.emoji.gg/emojis/78852-contributor.png"
+      "https://cdn3.emoji.gg/emojis/78852-contributor.png",
+      "https://badges.vencord.dev/badges/392331933301866499/2-382d8764077865902144544e9049e60e663f9cd8.gif"
     ],
     "tooltips": [
       "Glitch Kisser",
-      "contributor"
+      "contributor",
+      "Hacker Not even a joke"
+    ]
+  },
+  "1045223297446592604": {
+    "images": [
+      "https://badges.vencord.dev/badges/222855918335819776/1-52f6762e1d3e3139e5b12e3232a62e406a798783.gif",
+      "https://badges.vencord.dev/badges/300732840092499969/1-ee7feb884f370e62b35882ef692575ffaef0d98b.png"
+    ],
+    "tooltips": [
+      "R & R",
+      "A & A"
+    ]
+  },
+  "1374820560021880944": {
+    "images": [
+      "https://badges.vencord.dev/badges/1145792397725417532/6-82cd4001e63859b6e839a89ecc95676db82c4736.gif",
+      "https://badges.vencord.dev/badges/1145792397725417532/10-ccf16e4ac1b9ec56506a03e92408b1d1ba39d0b8.gif"
+    ],
+    "tooltips": [
+      " ",
+      " "
     ]
   }
 }
