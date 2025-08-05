@@ -41,11 +41,9 @@
   },
   "776091563558043648": {
     "images": [
-      "https://cdn3.emoji.gg/emojis/4351-moderator-programs-alumni.png",
       "https://cdn3.emoji.gg/emojis/9171-hypesquad-events.png"
     ],
     "tooltips": [
-      "Moderator",
       "Trusted"
     ]
   },
@@ -78,13 +76,13 @@
   "1236667927944761396": {
     "images": [
       "https://amcalledglitchy.dev/glitchkisser.png",
-      "https://cdn3.emoji.gg/emojis/78852-contributor.png",
-      "https://badges.vencord.dev/badges/392331933301866499/2-382d8764077865902144544e9049e60e663f9cd8.gif"
+      "https://badges.vencord.dev/badges/392331933301866499/2-382d8764077865902144544e9049e60e663f9cd8.gif",
+      "https://cdn3.emoji.gg/emojis/8965-moderator.png"
     ],
     "tooltips": [
       "Glitch Kisser",
-      "contributor",
-      "Hacker Not even a joke"
+      "Hacker Not even a joke",
+      "moderator"
     ]
   },
   "1045223297446592604": {
