@@ -11,6 +11,18 @@
       "Akuma"
     ]
   },
+  "BoopAkuma": {
+    "images": [
+      "https://cdn3.emoji.gg/emojis/2572-verified-badge.png",
+      "https://cdn3.emoji.gg/emojis/96296-discordearlybotdeveloper.png",
+      "https://cdn3.emoji.gg/emojis/4209-recruit-rank-9th.png"
+    ],
+    "tooltips": [
+      "Verified",
+      "Website Dev",
+      "Akuma"
+    ]
+  },
   "1374941350616760330": {
     "images": [
       "https://cdn3.emoji.gg/emojis/84952-verified.png",
